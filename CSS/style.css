@@ -1,0 +1,13 @@
+#RESULTADO{
+	text-align: center;
+	font-size: 150px;
+	background-color: gray;
+	color: black;
+}
+
+#BOTOES{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
